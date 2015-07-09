@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Madlibs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="raw_array">
+        <item>@raw/madlib0_simple</item>
+        <item>@raw/madlib1_tarzan</item>
+        <item>@raw/madlib2_university</item>
+        <item>@raw/madlib3_clothes</item>
+        <item>@raw/madlib4_dance</item>
+    </string-array>
+
+</resources>
